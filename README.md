@@ -29,7 +29,7 @@ If, instead, you'd like to include the latest version explicitly, you can add th
 
 If instead you want to download a specific version, please look at the `gh-pages` branch, where you will find the built assets for both our latest and older versions.
 
-## API
+## API of Twemoji
 
 Following are all the methods exposed in the `twemoji` namespace.
 
