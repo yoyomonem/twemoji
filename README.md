@@ -31,7 +31,7 @@ If instead you want to download a specific version, please look at the `gh-pages
 
 ## API of Twemoji
 
-Following are all the methods exposed in the `twemoji` namespace.
+Following are all the methods exposed in the Twemoji namespace.
 
 ### twemoji.parse( ... ) V1
 
